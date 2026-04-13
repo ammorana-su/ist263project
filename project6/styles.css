@@ -19,6 +19,10 @@ header {
     text-align: center;
 }
 
+header h1 {
+    color: #ffffff;
+}
+
 nav {
     display: flex;
     flex-direction: column; 
